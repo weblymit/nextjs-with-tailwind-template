@@ -13,7 +13,7 @@ const IndexHome = () => {
 					Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe eaque,
 					tempore, error iure nihil nobis facilis laudantium porro similique
 					accusantium sit. Ducimus sunt debitis eaque fugit cum aperiam
-					veritatis velit!
+					veritatis velit! kikol
 				</p>
 			</section>
 		</div>

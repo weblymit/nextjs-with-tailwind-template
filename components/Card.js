@@ -10,7 +10,7 @@ const CardTeam = ({ name, description }) => {
 					alt=''
 				/>
 				<div className='mt-4 text-green-600 text-center'>
-					<h1 className='text-xl font-bold'>{name}</h1>
+					<h1 className='text-xl font-bold'>{name} test</h1>
 					<p className='mt-4 text-gray-600'>{description}</p>
 					<button className='mt-8 mb-4 py-2 px-14 rounded-full bg-green-600 text-white tracking-widest hover:bg-green-500 transition duration-200'>
 						MORE
